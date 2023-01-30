@@ -24,4 +24,8 @@ picozero -> Ctrl-V to box ->Search on PyPi<br>
 Click on picozero in the search results. Click on Install.<br>
 Seemed to already be installed on Ubuntu 22.04<br>
 
-Now should be able to open and run the .py files in this repo.
+Now should be able to open and run the .py files in this repo.<br>
+
+To auto run MicroPython when power is applied to the Raspberry Pi Pico<br>
+put the code in to a main.py and copy it to the Raspberry Pi Pico.<br>
+Just running the files with Thonny does not copy it permanently to the boards file system.<br>
