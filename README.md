@@ -6,8 +6,8 @@ https://projects.raspberrypi.org/en/projects/get-started-pico-w/0
 [Getting started with your Raspberry Pi Pico W](https://projects.raspberrypi.org/en/projects/get-started-pico-w/0)<br>
 Then added a control loop for controlling temperature.<br>
 
-sudo apt install python3-tk thonny # If do not have installed already
-Download the latest version of Raspberry Pi Pico W firmware at:
+sudo apt install python3-tk thonny # If do not have installed already<br>
+Download the latest version of Raspberry Pi Pico W firmware at:<br>
 [https://rpf.io/pico-w-firmware](https://rpf.io/pico-w-firmware)<br>
 
 Hold down the BOOTSEL button<br>
